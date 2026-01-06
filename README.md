@@ -69,32 +69,6 @@ _____________________________________________________
 |Hardware             | CPU / GPU (CUDA supported)   |
 |____________________________________________________|
 
-📁 Project Structure
-
-ai-podcast-editor/
-│
-├── app.py
-├── stage1_transcription.py
-├── stage2_video_editing.py
-│
-├── utils/
-│   ├── audio_utils.py
-│   ├── video_utils.py
-│   └── transcript_parser.py
-│
-├── templates/
-│   ├── index.html
-│   └── upload.html
-│
-├── static/
-│   └── styles.css
-│
-├── uploads/
-│   ├── raw_videos/
-│   ├── transcripts/
-│   └── output/
-│
-└── README.md
 
 
 ⚙️ Installation & Setup
